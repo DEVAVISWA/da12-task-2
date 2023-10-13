@@ -1,0 +1,48 @@
+.grey{
+    background-color: rgb(47,61,70) ;
+    height: 80px;
+}
+.peach {
+    background-color: rgb(202,210,197) ;
+    height: 650px;
+}
+.cement{
+    background-color: rgb(53,53,53) ;
+    height: 499px;
+    margin: 75px;
+    border-radius: 30px;
+}
+.github{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    
+}
+.top{   
+    /* display: flex; */
+    text-align: center;
+    font-size: 27px;    
+    color: rgba(255, 255, 255, 0.421);
+    display: flex;
+    background-color: rgb(53,53,53) ;
+    margin: 70px;
+    margin-bottom: 30px;
+    height: 50px;
+    width: 600px;
+    border-radius: 8px;
+}
+.middle{
+    background-color: rgb(53,53,53) ;
+    height: 150px;
+    width: 200px;
+    margin: 30px ;
+    border-radius: 16px;
+}
+.down{
+    background-color: rgb(53,53,53);
+    height: 150px;
+    width: 700px;
+    margin: 30px ;
+    border-radius: 20px;
+}
